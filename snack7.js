@@ -3,4 +3,4 @@ function eseguiEFerma(message, avvio, stop){
     setTimeout(() => clearInterval(intervalId), stop);
 }
 
-eseguiEFerma('tomar no cu outra vez', 3000, 20000);
+eseguiEFerma(' outra vez', 3000, 20000);
